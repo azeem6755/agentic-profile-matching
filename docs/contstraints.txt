@@ -1,0 +1,2 @@
+1. For LLM use LM Studio at localhost port 1234. Use model google/gemma-4-e4b for reasoning.
+2. For embedding use LM Studio and model should be embedding gemma 300m.
